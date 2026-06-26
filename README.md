@@ -2,6 +2,8 @@
 
 This README provides a consolidated master index of all unique higher education courses instructed across over 25 years of teaching tenure. It highlights expertise spanning core software development, systems engineering, enterprise architecture, and network security tracks.
 
+>**[`AI Acceptable Use Guidelines`](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Guidelines%20for%20CS%20Students.md)**: Official academic syllabus guidelines outlining boundaries for generative AI tool deployment in computer science and programming courses.
+
 ---
 
 ## 💻 Core Programming & Data Structures
