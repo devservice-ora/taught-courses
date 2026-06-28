@@ -1,4 +1,4 @@
-# Lab 3: Branches and Making Decisions - Bank Charges Calculator
+# Lab 3: Branches and Making Decisions 
 
 **Instructor:** Jim D. Pham  
 **Course Requirement:** Three-Stage Development Process (Independent Design, AI Peer Review, Reflection)
