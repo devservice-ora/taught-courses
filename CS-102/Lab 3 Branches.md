@@ -5,14 +5,20 @@
 
 ---
 
+## Assignment Overview
+In this assignment, you will create a C++ application to calculate monthly fees for commercial checking accounts based on a bank's pricing model.
+
+This project will help you practice using conditional logic (like if-else statements), simple math, and checking user input for errors. You will need to calculate fees based on the number of checks written, determine whether any low-balance fees apply, and correctly handle user input errors (such as negative check counts or overdrafts).
+
+---
+
 ## 1. Problem Description & Logic Requirements
-*(Reference image file: image_4119cb.jpg)*
 
 A bank charges **$10 per month** plus the following tiered check fees for a commercial checking account:
-*   **$.10 each** for fewer than 20 checks
-*   **$.08 each** for 20–39 checks
-*   **$.06 each** for 40–59 checks
-*   **$.04 each** for 60 or more checks
+*   **$2.50 each** for fewer than 20 checks
+*   **$1.50 each** for 20–39 checks
+*   **$1.00 each** for 40–59 checks
+*   **$.50 each** for 60 or more checks
 
 ### Additional Fees & Input Validation Constraints:
 1.  **Low Balance Fee:** The bank charges an extra **$15** if the account balance falls below **$400** (evaluated *before* any check fees are applied).
