@@ -1,7 +1,9 @@
 # Lab 3: Branches and Making Decisions 
 
-**Instructor:** Jim D. Pham  
-**Course Requirement:** Three-Stage Development Process (Independent Design, AI Peer Review, Reflection)
+
+**Instructor:** **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**
+
+**Course:** CS-102 C++ Programming
 
 ---
 
