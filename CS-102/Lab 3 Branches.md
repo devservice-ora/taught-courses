@@ -63,7 +63,7 @@ Before uploading your files to the assignment portal, perform one final sanity c
 
 ---
 
-## 4. Final Submission Checklist
+## 4. [Final Submission Checklist](https://github.com/devservice-ora/AI/blob/main/AI%20Programming%20Assignment%20Checklist.md)
 Before submitting, ensure you have gathered all required deliverables. Upload all components to your class assignment portal:
 
 *   [ ] **`Lab-<your name>-Original.cpp`** (Your independent, fully functional source code before AI optimization)
