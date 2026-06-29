@@ -3,7 +3,7 @@
 
 **Instructor:** **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**
 
-**Course:** CS-102 C++ Programming
+**Course:** Summer 2026 - CS-102 C++ Programming
 
 ---
 
