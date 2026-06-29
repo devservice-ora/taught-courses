@@ -1,5 +1,4 @@
-# Lab 3: Branches and Making Decisions 
-
+# Lab 3: Branches and Making Decisions with AI-Assisted Peer Review
 
 **Instructor:** **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**
 
