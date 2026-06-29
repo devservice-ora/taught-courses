@@ -2,7 +2,7 @@
 
 This README, created by **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**, serves as a comprehensive master index of all the unique higher education courses taught over 25 years of teaching and professional experience. It highlights expertise in core areas such as software development, systems engineering, enterprise architecture, and network security.
 
->**[AI Acceptable Use Guidelines](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Guidelines%20for%20CS%20Students.md)**: Official academic syllabus guidelines outlining boundaries for generative AI tool deployment in computer science and programming courses.
+**[AI Acceptable Use Guidelines](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Guidelines%20for%20CS%20Students.md)**: Official academic syllabus guidelines outlining boundaries for generative AI tool deployment in computer science and programming courses.
 
 ---
 
