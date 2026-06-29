@@ -1,5 +1,11 @@
 # Lab 2: Basic input and output, variables and assignments
+Instructor: Jim D. Pham
 
+Course: Summer 2026 - CS-102 C++ Programming
+
+---
+
+## Assignment Overview
 This assignment covers the basics of using variables, doing math, and formatting text in C++.
 
 You will build a simple store checkout program that:
