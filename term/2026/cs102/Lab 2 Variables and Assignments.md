@@ -1,4 +1,5 @@
-# Lab 2: Basic input and output, variables and assignments
+# Lab 2: Basic input and output, variables and assignments with AI-Assisted Peer Review
+
 Instructor: Jim D. Pham
 
 Course: Summer 2026 - CS-102 C++ Programming
