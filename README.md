@@ -8,6 +8,10 @@ This README, created by **[Jim D. Pham](https://github.com/devservice-ora/AI/blo
 
 ## 💻 Core Programming & Data Structures
 
+### CS 101: Introduction to Computers and Information Technology
+*   **Focus:** General introduction to the area of computers and information technology.
+*   **Documentation:** Active across Fall 2014, and Fall 2015 tracks.
+
 ### CS 102: Introduction to C++
 *   **Focus:** Core foundational concepts of structured programming using C++. Cover variables, control flow, functions, arrays, and basic object-oriented principles.
 *   **Documentation:** Active across Fall 2018, Fall 2019, Summer 2020, and Summer 2026 tracks.
