@@ -4,6 +4,8 @@ This **[GitHub](https://github.com/devservice-ora)** project 2026 was created by
 
 **[AI Acceptable Use Guidelines](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Guidelines%20for%20CS%20Students.md)**: Official academic syllabus guidelines outlining boundaries for generative AI tool deployment in computer science and programming courses.
 
+**See also** [Cheat Sheet & Guidelines](https://github.com/devservice-ora/AI/blob/main/Cheatsheet_and_Guidelines.md)
+
 ---
 
 ## 💻 Core Programming & Data Structures
