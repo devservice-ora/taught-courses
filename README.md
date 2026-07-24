@@ -18,17 +18,21 @@ This **[GitHub](https://github.com/devservice-ora)** project 2026 was created by
 *   **Focus:** Core foundational concepts of structured programming using C++. Cover variables, control flow, functions, arrays, and basic object-oriented principles.
 *   **Documentation:** Active across Fall 2018, Fall 2019, Summer 2020, and Summer 2026 tracks.
 
+### CS 113: Discrete Structures
+*   **Focus:** Mathematical foundations of computer science, including propositional logic, set theory, combinatorics, graph theory, and state machine simulations.
+*   **Documentation:** Active across Spring 2020, Spring 2021, and Spring 2023 tracks.
+
 ### CS 116: C++ Programming
 *   **Focus:** Advanced object-oriented design in C++, memory management, pointers, class hierarchies, polymorphism, and file I/O operations.
 *   **Documentation:** Active across Spring 2018 tracks.
 
+### CS 118: Introduction to Assembly Language
+*   **Focus:** Number systems, computer architecture, machine instructions, memory addressing, subroutines, system calls, and file I/O.
+*   **Documentation:** Active across Fall 2017 and Fall 2018 tracks.
+
 ### CS 124: Data Structures
 *   **Focus:** Abstract Data Types (ADTs), stacks, queues, linked lists, trees, graphs, sorting/searching algorithms, and algorithmic complexity analysis.
 *   **Documentation:** Includes specialized lab manuals; active across Fall 2021, Fall 2024, and Spring 2025 tracks.
-
-### CS 113: Discrete Structures
-*   **Focus:** Mathematical foundations of computer science, including propositional logic, set theory, combinatorics, graph theory, and state machine simulations.
-*   **Documentation:** Active across Spring 2020, Spring 2021, and Spring 2023 tracks.
 
 ---
 
