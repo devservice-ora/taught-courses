@@ -72,11 +72,11 @@ This **[GitHub](https://github.com/devservice-ora)** project 2026 was created by
 
 ### CS 104A: Introduction to Visual Basic .NET
 *   **Focus:** Event-driven programming model basics, managed code frameworks, desktop GUI application creation, and object-oriented architectures within .NET.
-*   **Documentation:** Historical tracking across 2008, 2009, 2010, and 2012 tracks.
+*   **Documentation:** Historical tracking across 1999, 2008, 2009, 2010, and 2012 tracks.
 
 ### CS 104B: Advanced .NET Programming
 *   **Focus:** Multi-tier software architecture, persistent database connections (ADO.NET), and custom control components.
-*   **Documentation:** Active across Fall 2007 tracks.
+*   **Documentation:** Active across Fall 2007 and Fall 2008 tracks.
 
 ### CS 104D: .NET XML Web Services
 *   **Focus:** Distributed service architectures, SOAP, WSDL protocols, message security, and service-oriented enterprise integration.
@@ -84,7 +84,7 @@ This **[GitHub](https://github.com/devservice-ora)** project 2026 was created by
 
 ### CS 126: Internet Security Programming
 *   **Focus:** Secure coding principles, auditing code for injection and overflow vulnerabilities, and implementing robust protocol defenses.
-*   **Documentation:** Active across Fall 2004 tracks.
+*   **Documentation:** Active across Fall 2003 and Fall 2004 tracks.
 
 ### CS 173: Java EE and EJB
 *   **Focus:** Multi-tier corporate platform engineering, Enterprise JavaBeans (EJBs), component-based architectures, and servlet containers.
