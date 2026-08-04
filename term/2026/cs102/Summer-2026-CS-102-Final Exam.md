@@ -1,8 +1,11 @@
 # Summer 2026 CS 102: Final Exam
 
 **Instructor:** Jim D. Pham  
+
 **Term:** Summer 2026 
-**Course: Introduction to C++ Programming
+
+**Course:** Introduction to C++ Programming
+
 **Topic:** Dynamic 2D Arrays & Function Implementation in C++  
 
 ---
