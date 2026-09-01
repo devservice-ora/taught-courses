@@ -34,6 +34,10 @@ This **[GitHub](https://github.com/devservice-ora)** project 2026 was created by
 *   **Focus:** Abstract Data Types (ADTs), stacks, queues, linked lists, trees, graphs, sorting/searching algorithms, and algorithmic complexity analysis.
 *   **Documentation:** Includes specialized lab manuals; active across Fall 2021, Fall 2024, and Spring 2025 tracks.
 
+### CS 142: Intro Programming with Python
+*   **Focus:** Core programming concepts using Python, syntax, control flow, functions, data structures, and foundational problem-solving principles.
+*   **Documentation:** Active across Fall 2026 tracks.
+
 ---
 
 ## 🛡️ Systems Administration, Cisco Academy & Network Security
