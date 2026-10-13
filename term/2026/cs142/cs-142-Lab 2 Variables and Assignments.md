@@ -12,7 +12,7 @@ You will build a simple store checkout program that:
 
 * **Creates Variables and Assigns Values:** You will set up five variables to act as labeled containers for your data. You then use the assignment operator (`=`) to store a specific dollar amount inside each variable.
 * **Performs Math Calculations:** The program will add the items to find the subtotal, calculate 9.25% sales tax, and sum them for the final total.
-* **Prints the Receipt:** Finally, it prints the entire receipt on the screen using a single `cout` statement, with all prices neatly rounded to two decimal places.
+* **Prints the Receipt:** Finally, it prints the entire receipt on the screen, with all prices neatly rounded to two decimal places.
 
 Please follow the step-by-step instructions outlined below. Once you have verified that your original code compiles and runs successfully, use an AI assistant as a peer reviewer to optimize your work.
 
