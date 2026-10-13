@@ -142,7 +142,7 @@ Capture crisp screenshots of both execution windows and save them as .jpg or .pn
 Before submitting, ensure you have gathered all required deliverables. Upload all components to your class assignment portal:
 
 *   [ ] **`Lab-<your name>-Original.py`** (Your independent, fully functional source code before AI optimization)
-*   [ ] **`Lab-<your name>-AI-Improved.y`** (Your refined source code after implementing the AI peer-review suggestions)
+*   [ ] **`Lab-<your name>-AI-Improved.py`** (Your refined source code after implementing the AI peer-review suggestions)
 *   [ ] **Screenshot of your Original program output** (Clear visual verification that your original code compiled and executed successfully)
 *   [ ] **Screenshot of your AI-Improved program output** (Clear visual verification that your optimized code compiles and executes successfully)
 *   [ ] **Program Explanation Paragraph** (Your summary and reflection as indicated in Step 3, submitted either as a separate document or inline text as directed by the portal)
